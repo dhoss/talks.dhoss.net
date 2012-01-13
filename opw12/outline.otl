@@ -1,0 +1,72 @@
+PerlFu talk
+ - Who
+  - me
+  - the perl community
+  - people looking for Perl information
+  - overall, ranging from people looking to learn Perl to people looking for reference material. 
+
+ - What
+  - a knowledgebase that indexes information from reliable resources
+   (blogs.perl.org, module documentation, Perlmonks, stackoverflow, arbitrary user contributions).
+  - threaded discussion forums
+   - but qw( stackoverflow perlmonks ) have this! 
+     - yea well perlmonks is a little too bogged down for my taste
+     - and their search sucks
+       - but stackoverflow works fine!
+        - sure.  but their breadth of focus is a much larger scope than what I'm going for here.
+          people could really narrow down things, and fast, with a narrow search scope dedicated to Modern Perl.
+  - favorites
+   - "bookmark" your favorite documentation, code, code snippets, documentations snippets, and search them.
+    - I always find myself bookmarking metacpan pages in Chrome but I don't have a centralized location from which to access them anywhere ( more on this later)
+  - "recipes" for common deployment/setup/configuration/newfangled tomfoolery
+   - Examples:
+    - Catalyst application deployment, I'm looking at you
+      - the advent of Plack has helped this a whole hell of a lot, but frankly I find the Catalyst Wiki a bit like trying to hit a fly with a brick.  From across the room.  Drunk. (no slight towards MojoMojo intended)
+    - DBIx::Class intricacies 
+     - This ORM is a beautiful thing, and I'm indebted for life to mst for creating something that allows me to not have to have the slightest clue what I'm doing in SQL and still get things done. However, the rabbit hole goes deep, and I want to add a map to the goodies.
+    - Moose fiddlings
+      - I love Moose, and it's really done some amazing things to the Perl 5 world, but I just can't keep all of it in my head.  See above about goodies.
+  - overall, create a general index for Perl knowledge and allow users to create a subset of this knowledgebase they commonly access 
+   
+ - When
+   - Now!  What better time to bring the state of finding data (be it full on tutorials or reference data) into modern times than during the revolution that is Modern Perl?
+   - I would very much like to have a REAL beta up within the next few months 
+    (please factor in that I am trying to level up in Skyrim so I can create Dragon Armor.  And I just installed Jedi Knight 2: Jedi Outcast.  And Knights of the Old Republic.  And I have a job.)
+
+ - Why
+  - Have you *tried* Googling for Perl information lately?
+   - a huge percentage of it is out of date
+   - a huge percentage of it propogates bad practices
+   - almost none of it even refers to Modern Perl
+   - it's exceedingly difficult to look up things like: 
+     "If I want to get ahold of the connection info from a DBIx::Class ResultSet object, how would I do that?",
+     "Does Moose method delegation in attributes take an arrayref, or a hashref?" - this is no slight at the Moose documentation, it's awesome. 
+     I want to be able to search for "moose method delegation" and have my question more or less answered 
+     - unless you're on irc.perl.org#dbix-class
+       - which is fine, but mst/ribasushi/Caelum/frew/et al have better things to do than hold my hand (gphat and jshirley are exempt here)
+  - I can't keep track of what information is where
+   - I want to have a quick and really damn easy to access interface to the things I want to find
+    - and with this interface I want to be able to keep a list of my favorites/most acccessed docs (like a mini delicious, if you will [RIP])
+  - A common knowledgebase would allow people that know what they're doing in the pertinent IRC channels and mailing lists to point people with queries to something that explains things in full, or at least so that the explainer doesn't have to repeat themselves to each person that asks said question.  DRY is a good thing.
+
+ - Where
+  - perlfu.org
+    - beta.perlfu.org
+  - github.com/dhoss/PerlFu
+  - irc.perlfu.org #perlfu
+
+ - How
+  - me hacking a lot. 
+  - community involvement
+ 
+ - Technologies
+  - Perl
+   - Moose, Catalyst, DBIx::Class, Template::Xslate, PSGI+starman
+  - PostgreSQL
+   - tsearch
+   - recursive queries
+   - a fucking fuckload of data
+  - nginx
+  - redis
+  - zeromq
+  - jquery
