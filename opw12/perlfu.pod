@@ -137,3 +137,31 @@ This ORM is a beautiful thing, and I'm indebted for life to mst for creating som
 =back
 
 =back
+
+=head1 What is PerlFu? (cont'd)
+
+=item Moose Fiddlings
+
+=over
+
+=item *
+
+I love Moose, and it's really done some amazing things to the Perl 5 world, but I just can't keep all of it in my head.  See above about goodies.
+
+=back
+
+=head1 What is PerlFu? (cont'd)
+
+=item Overall
+
+=over
+
+=item *
+
+Create a general index of reliable Perl knowledge.
+
+=item *
+
+Allow users to create a subset of this knowledgebase of their own.
+
+=back
