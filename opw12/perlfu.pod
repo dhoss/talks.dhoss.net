@@ -88,3 +88,40 @@ Useful because I personally can't sift throught my Chrome bookmarks efficiently
 =head1 What is PerlFu? (cont'd)
 
 =item Recipes for:
+
+=over
+
+=item * 
+
+Catalyst application deployment
+
+=over
+
+=item *
+
+the advent of Plack has helped this a whole hell of a lot, but frankly I find the Catalyst Wiki a bit like trying to hit a fly with a brick. 
+
+=item *
+
+From across the room.
+
+=item * 
+
+Drunk. (no slight towards MojoMojo intended)
+
+
+=back
+
+=back
+
+=head1 What is PerlFu? (cont'd)
+
+=item Catalyst Advent Calendar
+
+=over
+
+=item *
+
+Though retired, it still contains a whole lot of relevant and good information.
+
+=back
