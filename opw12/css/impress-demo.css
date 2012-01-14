@@ -163,7 +163,7 @@ a:hover {
     transition:         opacity 1s,         transform 0.5s 1s;
 }
 
-.step-bored + .hint {
+.step-intro + .hint {
     opacity: 1;
     
     -webkit-transition: opacity 1s 5s, -webkit-transform 0.5s;

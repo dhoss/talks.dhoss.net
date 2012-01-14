@@ -1,0 +1,39 @@
+=head1 PerlFu
+
+A Centralized Perl Knowledgebase
+
+Devin Austin
+
+L<dhoss@cpan.org>
+
+=head1 What is PerlFu?
+
+=over 
+
+=item A Perl knowledgebase that indexes information from reliable sources
+
+=over 
+
+=item *
+
+blogs.perl.org
+
+=item *
+
+module docs (L<http://metacpan.org>)
+
+=item *
+
+Perlmonks
+
+=item *
+
+stackoverflow
+
+=item *
+
+user submitted data
+
+=back
+
+=back

@@ -20,8 +20,10 @@ PerlFu talk
     - I always find myself bookmarking metacpan pages in Chrome but I don't have a centralized location from which to access them anywhere ( more on this later)
   - "recipes" for common deployment/setup/configuration/newfangled tomfoolery
    - Examples:
-    - Catalyst application deployment, I'm looking at you
+    - Catalyst application deployment
       - the advent of Plack has helped this a whole hell of a lot, but frankly I find the Catalyst Wiki a bit like trying to hit a fly with a brick.  From across the room.  Drunk. (no slight towards MojoMojo intended)
+      - the Catalyst Advent Calendar
+        - though retired, it still contains a whole lot of relevant and good information. 
     - DBIx::Class intricacies 
      - This ORM is a beautiful thing, and I'm indebted for life to mst for creating something that allows me to not have to have the slightest clue what I'm doing in SQL and still get things done. However, the rabbit hole goes deep, and I want to add a map to the goodies.
     - Moose fiddlings
@@ -31,7 +33,7 @@ PerlFu talk
  - When
    - Now!  What better time to bring the state of finding data (be it full on tutorials or reference data) into modern times than during the revolution that is Modern Perl?
    - I would very much like to have a REAL beta up within the next few months 
-    (please factor in that I am trying to level up in Skyrim so I can create Dragon Armor.  And I just installed Jedi Knight 2: Jedi Outcast.  And Knights of the Old Republic.  And I have a job.)
+    (please factor in that I am trying to level up in Skyrim so I can forge Dragon Armor.  And I just installed Jedi Knight 2: Jedi Outcast.  And Knights of the Old Republic.  And I have a job.)
 
  - Why
   - Have you *tried* Googling for Perl information lately?
