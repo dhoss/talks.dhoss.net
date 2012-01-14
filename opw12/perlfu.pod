@@ -124,4 +124,16 @@ Drunk. (no slight towards MojoMojo intended)
 
 Though retired, it still contains a whole lot of relevant and good information.
 
+=item * 
+
+DBIx::Class Intricacies
+
+=over
+
+=item *
+
+This ORM is a beautiful thing, and I'm indebted for life to mst for creating something that allows me to not have to have the slightest clue what I'm doing in SQL and still get things done. However, the rabbit hole goes deep, and I want to add a map to the goodies.
+
+=back
+
 =back
