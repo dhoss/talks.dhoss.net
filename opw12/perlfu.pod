@@ -37,3 +37,37 @@ user submitted data
 =back
 
 =back
+
+=head1 What is PerlFu? (cont'd)
+
+=over
+
+=item *
+
+Threaded forums
+
+=over
+
+=item *
+
+Stackoverflow and Perlmonks already have this!
+
+=over
+
+=item *
+
+Perlmonks == slow, bogged down, shitty search
+
+=item * 
+
+Stackoverflow is an alright thing.  It could be narrowed down to a much more focused scope.
+
+=back
+
+=back
+
+=item *
+
+Favorites
+
+=back
