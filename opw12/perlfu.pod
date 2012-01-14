@@ -170,10 +170,125 @@ Allow users to create a subset of this knowledgebase of their own.
 
 =item Have you *tried* Googling for Perl information (ever)?
 
-=over 
+
+=item 
+
+G<images/PERL-tutorial.png>
+
+=head1 Why do we need PerlFu? (cont'd)
+
+=item A huge percentage of them are:
+
+=over
 
 =item *
 
-G<images/PERL-tutorial.png>
+Out of date
+
+=item *
+
+Propogating bad practices
+
+=item *
+
+Almost never refer to Modern Perl
+
+=back
+
+=head1 Why do we need PerlFu? (cont'd)
+
+=item Finding things is hard
+
+=over
+
+=item *
+
+"Does Moose method delegation in attributes take an arrayref, or a hashref?" - this is no slight at the Moose documentation, it's awesome. 
+
+=item *
+
+"If I want to get ahold of the connection info from a DBIx::Class ResultSet object, how would I do that?"
+
+
+=over
+
+=item *
+
+unless you're on irc.perl.org#dbix-class
+
+=over
+
+=item *
+
+which is fine, but mst/ribasushi/Caelum/frew/et al have better things to do than hold my hand (gphat and jshirley are exempt here)
+
+=back
+
+=back
+
+=back
+
+=head1 Why do we need PerlFu? (cont'd)
+
+=item I want to have a quick reference to things I use often
+
+=over
+
+=item *
+
+I want it to be easy
+
+=item *
+
+I want it to be fast
+
+=back
+
+=head1 Why do we need PerlFu? (cont'd)
+
+=item A common knowledgebase
+
+=over
+
+=item *
+
+would allow people that know what they're doing in the pertinent IRC channels and mailing lists to point people with queries to something that explains things in full, or at least so that the explainer doesn't have to repeat themselves to each person that asks said question. 
+
+=item *
+
+DRY is a good thing.
+
+=back
+
+=head1 Is PerlFu available for use right now?
+
+=item No.
+
+=over
+
+=item *
+
+But it will be!
+
+=over
+
+=item *
+
+Code is up on github (https://github.com/dhoss/PerlFu)
+
+=item * 
+
+And IRC (irc.perl.org/#perlfu)
+
+=item *
+
+And beta will be (back) up soon: L<beta.perlfu.org>
+
+
+=item *
+
+Please bear in mind I am trying to level up in Skyrim so I can forge Dragon Armor.  And I just installed Jedi Knight 2: Jedi Outcast.  And Knights of the Old Republic.  And I have a job.
+
+=back
 
 =back
