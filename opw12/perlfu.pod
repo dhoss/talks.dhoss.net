@@ -203,7 +203,7 @@ Almost never refer to Modern Perl
 
 =item *
 
-"Does Moose method delegation in attributes take an arrayref, or a hashref?" - this is no slight at the Moose documentation, it's awesome. 
+"Does Moose method delegation take an arrayref, or a hashref?" - this is no slight at the Moose documentation, it's awesome. 
 
 =item *
 
