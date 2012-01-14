@@ -292,3 +292,66 @@ Please bear in mind I am trying to level up in Skyrim so I can forge Dragon Armo
 =back
 
 =back
+
+=head1 This sounds cool!
+
+=item I know.
+
+=head1 How do I get involved?
+
+=over
+
+=item *
+
+Fork the project  
+
+=item * 
+
+Read the TODO
+
+=item *
+
+Hack
+
+=item *
+
+Push, make a pull request.                                                         
+
+=back
+
+=head1 What does PerlFu use?
+
+=over
+
+=item *
+
+Perl
+
+=over
+
+=item *
+
+Moose, Catalyst, DBIx::Class, Template::Xslate, PSGI+starman, XML::LibXML::Reader, XML::SAX::ExpatXS
+
+
+=back
+
+=item *
+
+PostgreSQL
+
+
+=over 
+
+=item *
+
+tsearch, recursive queries, and a fucking fuckload of data.
+
+
+=back
+
+=back
+
+=head1 Questions?
+
+=head1 FIN
