@@ -8,7 +8,6 @@ L<dhoss@cpan.org>
 
 =head1 What is PerlFu?
 
-=over 
 
 =item A Perl knowledgebase that indexes information from reliable sources
 
@@ -34,13 +33,11 @@ stackoverflow
 
 user submitted data
 
-=back
 
 =back
 
 =head1 What is PerlFu? (cont'd)
 
-=over
 
 =item *
 
@@ -64,10 +61,30 @@ Stackoverflow is an alright thing.  It could be narrowed down to a much more foc
 
 =back
 
+
+
 =back
+
+=head1 What is PerlFu? (cont'd)
 
 =item *
 
 Favorites
 
+=over
+
+=item * 
+
+Bookmark your favorite documentation, code, code snippets, modules (using metacpan), documentation, and be able to search them
+
+
+=item *
+
+Useful because I personally can't sift throught my Chrome bookmarks efficiently
+
 =back
+
+
+=head1 What is PerlFu? (cont'd)
+
+=item Recipes for:
